@@ -3,4 +3,4 @@ site_url: https://hieppt.github.io/
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+theme: material 
